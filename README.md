@@ -37,7 +37,7 @@ Open index.html in any modern web browser to view the website.
 ## 📂 **Project Requirements**
 This project follows the requirements outlined in the task document.  
 You can find the full project requirements here:  
-- **[Project Requirements (PDF)](./Proiect%202/Tema2_2024.pdf)**
+- **[Project Requirements (PDF)](/Proiect2/Tema2_2024.pdf)**
 
 
 ## 💡 **Implementation Details**
