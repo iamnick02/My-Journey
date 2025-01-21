@@ -5,7 +5,7 @@ This project is a personal website created as part of the Web Technologies cours
 ## 🏆 Key Features
 1. **Home Page**:
 
-Includes an introduction with sections about education, competencies, and hobbies.
+- Includes an introduction with sections about education, competencies, and hobbies.
 - A responsive navigation bar for easy access to all pages.
 - Footer with social media links and copyright information.
 
@@ -37,7 +37,7 @@ Open index.html in any modern web browser to view the website.
 ## 📂 **Project Requirements**
 This project follows the requirements outlined in the task document.  
 You can find the full project requirements here:  
-- **[Project Requirements (PDF)](./Tema2_2024.pdf)**
+- **[Project Requirements (PDF)](/Tema2_2024.pdf)**
 
 
 ## 💡 **Implementation Details**
