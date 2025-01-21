@@ -34,18 +34,20 @@ Navigate to the project folder:
 
 Open index.html in any modern web browser to view the website.
 
-At least 4 pages: Home, About, Portfolio, and Contact.
-- Fully responsive homepage with structured layout.
-- Usage of native HTML and CSS only.
-- Organized folder structure and properly formatted code.
-- You can find the full project requirements here.
+## 📂 **Project Requirements**
+This project follows the requirements outlined in the task document.  
+You can find the full project requirements here:  
+- **[Project Requirements (PDF)](./Tema2_2024.pdf)**
 
-## 💡 Implementation Details
--Good Design Practices:
-  - Proper use of contrast, alignment, proximity, and repetition.
-  - Consistency in UI components and navigation structure.
--Code Standards:
-  -Clear formatting and comments in HTML and CSS.
-  -Organized file structure for maintainability.
--Responsive Design:
-  -Uses flexible layouts and media queries to adapt to different screen sizes.
+
+## 💡 **Implementation Details**
+### **Good Design Practices**:
+- Proper use of contrast, alignment, proximity, and repetition.
+- Consistency in UI components and navigation structure.
+
+### **Code Standards**:
+- Clear formatting and comments in HTML and CSS.
+- Organized file structure for maintainability.
+
+### **Responsive Design**:
+- Uses flexible layouts and media queries to adapt to different screen sizes.
