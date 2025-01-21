@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfolio of Petrescu Nicolae Adrian, featuring my projects and achievements.">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <nav>
+        <div class="container">
+            <div class="logo">
+                <a href="home.html">
+                    <img src="logo.png" alt="Logo" width="50">
+                </a>
+            </div>
+            <div class="burger">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <div class="nav-links">
+                <a href="home.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="portofolio.html" class="active">Portfolio</a>
+                <a href="contact.html">Contact</a>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <h1>Portofolio</h1>
+        <p>Here are some of the projects I have worked on:</p>
+        
+        <h2>Project 1 - LAN Party Simulation</h2>
+        <p>This project was created during my studies in algorithm design. The goal was to simulate a LAN party using concepts like stacks, queues, lists, and trees. Below are the key details:</p>
+        <ul>
+            <li><strong>Language:</strong> C</li>
+            <li><strong>Description:</strong> The program organizes and simulates the progress of a LAN party, managing teams and games in a hierarchical manner. Each team competes, and the winners advance until a final winner is declared.</li>
+            <li><strong>Data Structures Used:</strong>
+                <ul>
+                    <li>Stacks</li>
+                    <li>Queues</li>
+                    <li>Linked Lists</li>
+                    <li>Binary Trees</li>
+                </ul>
+            </li>
+            <li><strong>Challenges:</strong> Implementing efficient memory management for dynamic data structures and ensuring the correctness of the game logic.</li>
+            <li><strong>Outcome:</strong> Successfully simulated a LAN Party with accurate team management and results tracking.</li>
+        </ul>
+        <a href="portofolio.html" download="portofolio.html">Download CV</a>
+    </div>
+    <div class="slideshow-container">
+        <div class="mySlides fade">
+            <img src="boy.png" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+            <img src="python.avif" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+            <img src="web.png" style="width:100%">
+        </div>
+
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+    <br>
+    <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+    </div>
+    <footer>
+        <a href="https://www.facebook.com/profile.php?id=100095032358716">Facebook</a> |
+        <a href="https://www.instagram.com/iamnick02/">Instagram</a> |
+        <a href="mailto:nickpetrescu02@gmail.com">Email</a> |
+        <a href="https://github.com/iamnick02">GitHub</a>
+        <p>&copy; 2024 Petrescu Nicolae Adrian</p>
+    </footer>
+</body>
+</html>
